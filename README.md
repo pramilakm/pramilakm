@@ -26,6 +26,16 @@
 <img alt="Flutter" width="26px" src="https://img.icons8.com/color/26/000000/flutter.png" />
 <img alt="WordPress" width="26px" src="https://img.icons8.com/color/26/000000/wordpress.png" />
 <br />
+### 📕 Latest Projects
+<!-- BLOG-POST-LIST:START -->
+- [Smart QR Shop](https://https://smartqr.shop/)
+- [FoodReka](https://https://foodreka.com/)
+- [MovieReaper](https://MovieReaper.com/)
+- [Smart Ecom Shop](https://smartecom.shop/)
+- [Rupareka Shop](https://rshop.lk/)
+<!-- BLOG-POST-LIST:END -->
+
+---
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
