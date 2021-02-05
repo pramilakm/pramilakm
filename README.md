@@ -1,10 +1,7 @@
-## Hi, I'm [Pradip Debnath][website] 👋
+## Hi, I'm [Pramila Krishan][website] 👋
 
 - 🔭 I’m currently developing a mobile app
-- 🌱 I’m currently learning advanced concepts of Flutter & React Native
-- 👯 I’m looking to collaborate with other content creators on [YouTube][youtube]
-- 🥅 2020 Goals: get 15k subscribers on YouTube
-- ⚡ Fun fact: I love to listen songs. AR & Space exploration excites me
+- 🌱 I’m currently learning advanced concepts of web design and development
 
 **Connect with me:**
 
@@ -25,7 +22,6 @@
 
 <br />
 <br />
-### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
