@@ -1,7 +1,10 @@
 ## Hi, I'm [Pramila Krishan][website] 👋
 
-- 🔭 I’m currently developing 
--Website Development | PHP Development | Laravel Development | WordPress Development
+- 🔭 Website developing
+- 🔭 PHP developing 
+- 🔭 Laravel developing 
+- 🔭 Mobile app developing 
+- 🔭 WordPress developing 
 - 🌱 I’m currently learning advanced concepts of web design and development
 
 **Connect with me:**
