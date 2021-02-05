@@ -1,12 +1,8 @@
 ## Hi, I'm [Pramila Krishan][website] 👋
 
-<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> Website developing
-</br>
-</br>
-<img alt="PHP" width="26px" src="https://img.icons8.com/officel/30/000000/php-logo.png" /> PHP developing
-</br>
-</br>
-<img alt="Laravel" width="26px" src="https://img.icons8.com/fluent/48/000000/laravel.png" /> Laravel developing
+- <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> Website developing
+- <img alt="PHP" width="26px" src="https://img.icons8.com/officel/30/000000/php-logo.png" /> PHP developing
+- <img alt="Laravel" width="26px" src="https://img.icons8.com/fluent/48/000000/laravel.png" /> Laravel developing
 </br>
 </br>
 <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> Mobile app developing
