@@ -26,7 +26,12 @@
 <img alt="Flutter" width="26px" src="https://img.icons8.com/color/26/000000/flutter.png" />
 <img alt="WordPress" width="26px" src="https://img.icons8.com/color/26/000000/wordpress.png" />
 <br />
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 ---
+
 ### 📕 Latest Projects
 <!-- BLOG-POST-LIST:START -->
 - [Smart QR Shop](https://smartqr.shop/)
