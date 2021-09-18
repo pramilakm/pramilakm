@@ -32,9 +32,9 @@
 
 ---
 
-### 📕 Latest Projects
+<!--### 📕 Latest Projects-->
 <!-- BLOG-POST-LIST:START -->
-- [Smart QR Shop](https://smartqr.shop/)
+<!--- [Smart QR Shop](https://smartqr.shop/)
 - [FoodReka](https://foodreka.com/)
 - [MovieReaper](https://MovieReaper.com/)
 - [Smart Ecom Shop](https://smartecom.shop/)
