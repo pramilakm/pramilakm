@@ -1,10 +1,9 @@
 ## Hi, I'm [Pramila Krishan][website] 👋
 
-- <img alt="HTML5" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> Website developing
+- <img alt="HTML5" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> Web Based Software Developer
+- <img alt="React" width="15pxx" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> Mobile Application Developer
 - <img alt="PHP" width="15px" src="https://img.icons8.com/officel/30/000000/php-logo.png" /> PHP developing
 - <img alt="Laravel" width="15px" src="https://img.icons8.com/fluent/48/000000/laravel.png" /> Laravel developing
-- <img alt="React" width="15pxx" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> Mobile app developing
-- <img alt="WordPress" width="15px" src="https://img.icons8.com/color/26/000000/wordpress.png" /> WordPress developing
 - 🌱 I’m currently learning advanced concepts of web design and development
 
 **Connect with me:**
