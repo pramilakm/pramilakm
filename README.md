@@ -23,28 +23,9 @@
 <img alt="Laravel" width="26px" src="https://img.icons8.com/fluent/48/000000/laravel.png" />
 <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img alt="Flutter" width="26px" src="https://img.icons8.com/color/26/000000/flutter.png" />
-<img alt="WordPress" width="26px" src="https://img.icons8.com/color/26/000000/wordpress.png" />
-<br />
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
-<!--### 📕 Latest Projects-->
-<!-- BLOG-POST-LIST:START -->
-<!--- [Smart QR Shop](https://smartqr.shop/)
-- [FoodReka](https://foodreka.com/)
-- [MovieReaper](https://MovieReaper.com/)
-- [Smart Ecom Shop](https://smartecom.shop/)
-- [Rupareka Shop](https://rshop.lk/)
-<!-- BLOG-POST-LIST:END -->
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
----
 
 [website]: #
 [twitter]: https://twitter.com/pramilakm
